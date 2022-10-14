@@ -1,3 +1,5 @@
+package SingleResponsibility;
+
 public class SRP {
 
     /**
